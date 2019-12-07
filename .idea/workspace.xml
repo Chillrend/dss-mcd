@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b9961d-2833-4dae-afca-36fa88f48040" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/kriteriaedit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/kriteriatab.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_07_025320_create_alternatifs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_07_025320_create_alternatifs_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_07_034513_create_kriterias_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_07_034513_create_kriterias_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/KriteriaSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/KriteriaSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +153,7 @@
       <workItem from="1575427779125" duration="2691000" />
       <workItem from="1575435309145" duration="1434000" />
       <workItem from="1575512591242" duration="22000" />
-      <workItem from="1575685122927" duration="3499000" />
+      <workItem from="1575685122927" duration="8209000" />
     </task>
     <servers />
   </component>

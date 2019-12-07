@@ -19,10 +19,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/krit', 'Kriteria@index');
+Route::get('/krit/edit/{id}', 'Kriteria@edit');
+Route::post('/krit/update/{id}', 'Kriteria@update');

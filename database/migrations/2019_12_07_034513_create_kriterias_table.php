@@ -16,7 +16,7 @@ class CreateKriteriasTable extends Migration
         Schema::create('kriterias', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
-            $table->float('bobot');
+            $table->decimal('bobot', 4, 4);
             $table->timestamps();
         });
     }
