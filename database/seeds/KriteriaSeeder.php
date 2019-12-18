@@ -16,7 +16,7 @@ class KriteriaSeeder extends Seeder
         DB::table('kriterias')->insert([
             ['name' => 'sc', 'bobot' => .105],
             ['name' => 'sa', 'bobot' => .105],
-            ['name' => 'gcc', 'bobot' => .95],
+            ['name' => 'gcc', 'bobot' => .09],
             ['name' => 'pac', 'bobot' => .105],
             ['name' => 'soi', 'bobot' => .105],
             ['name' => 'gcpch', 'bobot' => .06],

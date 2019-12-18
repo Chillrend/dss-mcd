@@ -8,12 +8,12 @@ class Kriteria extends Controller
 {
     public function index(){
         $krit = \App\Kriteria::all();
-        return view('kriteriatab', ['krit' => $krit]);
+        return view('kriteria/kriteriatab', ['krit' => $krit]);
     }
 
     public function edit($id){
         $krit = \App\Kriteria::find($id);
-        return view('kriteriaedit', ['krit' => $krit]);
+        return view('kriteria/kriteriaedit', ['krit' => $krit]);
     }
 
     public function update($id, Request $request){
@@ -27,6 +27,6 @@ class Kriteria extends Controller
         $kriteria -> bobot = $request->bobot;
         $kriteria->save();
 
-        return redirect('/krit');
+        return redirect('/kriteria');
     }
 }
