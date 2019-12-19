@@ -58,7 +58,7 @@
                         </table>
 
                         <a href="/alternatif/add-form" class="btn btn-info">Tambah alternatif</a>
-                        <a class="btn btn-success">Jalankan Perhitungan</a>
+                        <a href="/docalc" class="btn btn-success">Jalankan Perhitungan</a>
                     </div>
                 </div>
             </div>

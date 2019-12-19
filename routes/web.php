@@ -29,3 +29,5 @@ Route::post('/alternatif/update/{id}', 'AlternatifController@update');
 Route::get('/alternatif/delete/{id}', 'AlternatifController@delete');
 Route::get('/alternatif/add-form', 'AlternatifController@addForm');
 Route::post('/alternatif/add', 'AlternatifController@store');
+
+Route::get('/docalc', 'CalculationController@doCalculation');

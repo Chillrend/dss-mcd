@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b9961d-2833-4dae-afca-36fa88f48040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/alternatif/altadd.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/alternatif/altedit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Alternatif.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Alternatif.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Kriteria.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Kriteria.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/KriteriaSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/KriteriaSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/kriteriaedit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/kriteria/kriteriaedit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/kriteriatab.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/kriteria/kriteriatab.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,7 +163,8 @@
       <workItem from="1576026316611" duration="5827000" />
       <workItem from="1576193581311" duration="204000" />
       <workItem from="1576277022749" duration="7060000" />
-      <workItem from="1576639474142" duration="273000" />
+      <workItem from="1576639474142" duration="5721000" />
+      <workItem from="1576709609598" duration="7580000" />
     </task>
     <servers />
   </component>
