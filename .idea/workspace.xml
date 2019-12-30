@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b9961d-2833-4dae-afca-36fa88f48040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/result.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/results/result_details.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/results/results.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CalculationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CalculationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AlternatifController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AlternatifController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/result.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/result.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,9 +142,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/resources/views/kriteria" />
       <recent name="$PROJECT_DIR$/resources/views/alt" />
-      <recent name="$PROJECT_DIR$/resources/views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,7 +188,8 @@
       <workItem from="1576709609598" duration="7580000" />
       <workItem from="1576803837077" duration="683000" />
       <workItem from="1577061062610" duration="688000" />
-      <workItem from="1577582012264" duration="9576000" />
+      <workItem from="1577582012264" duration="10202000" />
+      <workItem from="1577671270393" duration="10338000" />
     </task>
     <servers />
   </component>

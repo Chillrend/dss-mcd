@@ -51,6 +51,11 @@ class AlternatifController extends Controller
         return redirect('/alternatif');
     }
 
+    public function deleteAll(){
+        Alternatif::truncate();
+        return redirect('/alternatif');
+    }
+
     public function addForm(){
         return view('alternatif/altadd');
     }

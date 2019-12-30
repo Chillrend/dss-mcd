@@ -281,4 +281,22 @@
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-md-5 offset-6">
+            <p>Simpan hasil perhitungan</p>
+            <form action="/result/addResult" method="POST">
+                @csrf
+                <input type="text" name="name" id="name" class="form-control" placeholder="Nama perhitungan" required/>
+                <input type="hidden" name="result" id="result" class="form-control" value="{{ json_encode($final_result) }}" />
+                <div class="row">
+                    <div class="col">
+                        <button type="submit" class="btn btn-success p-2 mt-2">Simpan</button>
+                        <a href="/alternatif/deleteAll" onclick="return confirm('Alternatif akan ikut dihapus bersama dengan perhitungan, lanjutkan?')" class="btn btn-danger p-2 mt-2">Hapus hasil hitung</a>
+                        <a href="/alternatif" class="btn btn-info p-2 mt-2">Kembali ke halaman alternatif</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
 @endsection

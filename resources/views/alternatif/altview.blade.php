@@ -59,6 +59,7 @@
 
                         <a href="/alternatif/add-form" class="btn btn-info">Tambah alternatif</a>
                         <a href="/docalc" class="btn btn-success">Jalankan Perhitungan</a>
+                        <a href="/alternatif/deleteAll" onclick="return confirm('Seluruh alternatif akan dihapus, lanjutkan ?')" class="btn btn-danger">Hapus Seluruh Alternatif</a>
                     </div>
                 </div>
             </div>
