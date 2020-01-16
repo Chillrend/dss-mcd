@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b9961d-2833-4dae-afca-36fa88f48040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/results/result_details.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/results/results.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AlternatifController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AlternatifController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/alternatif/altview.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/result.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/result.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +129,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/artisan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../koperesyen" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
@@ -189,7 +181,11 @@
       <workItem from="1576803837077" duration="683000" />
       <workItem from="1577061062610" duration="688000" />
       <workItem from="1577582012264" duration="10202000" />
-      <workItem from="1577671270393" duration="10338000" />
+      <workItem from="1577671270393" duration="10449000" />
+      <workItem from="1577952965918" duration="300000" />
+      <workItem from="1578381531437" duration="653000" />
+      <workItem from="1578653853712" duration="56000" />
+      <workItem from="1579167736516" duration="596000" />
     </task>
     <servers />
   </component>
