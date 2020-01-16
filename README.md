@@ -1,5 +1,7 @@
 # DSS MCD
-Projek ini dikerjakan menggunakan Laravel PHP Framework
+Projek ini dikerjakan menggunakan Laravel PHP Framework 
+
+Anda membutuhkan Composer (https://getcomposer.org/), NODE JS (https://nodejs.org/en/) untuk menjalankan aplikasi ini 
 
 ### Menjalankan Program secara lokal
 Buka terminal, dan jalankan
