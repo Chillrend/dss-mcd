@@ -18,7 +18,8 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-buat database dengan nama `dss_mcd` dan migrate database dengan menggunakan artisan
+buat database dengan nama `dss_mcd` dan migrate database dengan menggunakan artisan.
+(Anda dapat melewati langkah ini dan selanjutnya dengan mengimport file `dss_mcd.sql` kedalam database server Anda)
 ```bash
 php artisan migrate
 ```

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b9961d-2833-4dae-afca-36fa88f48040" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dss_mcd.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -134,6 +135,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/resources/views/kriteria" />
       <recent name="$PROJECT_DIR$/resources/views/alt" />
@@ -185,7 +187,7 @@
       <workItem from="1577952965918" duration="300000" />
       <workItem from="1578381531437" duration="653000" />
       <workItem from="1578653853712" duration="56000" />
-      <workItem from="1579167736516" duration="596000" />
+      <workItem from="1579167736516" duration="1064000" />
     </task>
     <servers />
   </component>
